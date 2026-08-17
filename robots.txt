@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-k3yz10.salamduit.cfd/sitemap.xml
